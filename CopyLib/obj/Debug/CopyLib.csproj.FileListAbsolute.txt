@@ -1,0 +1,5 @@
+F:\DCSL\CopyLib\bin\Debug\CopyLib.dll
+F:\DCSL\CopyLib\bin\Debug\CopyLib.pdb
+F:\DCSL\CopyLib\obj\Debug\CopyLib.csproj.CoreCompileInputs.cache
+F:\DCSL\CopyLib\obj\Debug\CopyLib.dll
+F:\DCSL\CopyLib\obj\Debug\CopyLib.pdb

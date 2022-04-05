@@ -1,0 +1,13 @@
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.Form1.resources
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.Properties.Resources.resources
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.csproj.GenerateResource.cache
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.csproj.CoreCompileInputs.cache
+F:\DCSL\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+F:\DCSL\CopyDirectory\bin\Debug\CopyDirectory.exe
+F:\DCSL\CopyDirectory\bin\Debug\CopyDirectory.pdb
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.csproj.AssemblyReference.cache
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.exe
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.pdb
+F:\DCSL\CopyDirectory\obj\Debug\CopyDirectory.csproj.CopyComplete
+F:\DCSL\CopyDirectory\bin\Debug\CopyLib.dll
+F:\DCSL\CopyDirectory\bin\Debug\CopyLib.pdb
